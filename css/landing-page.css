@@ -35,7 +35,7 @@ h6 {
     padding-bottom: 100px;
     color: #f8f8f8;
     background: url(../img/masabanner.png) no-repeat center center;
-    background-size: contain;
+    background-size: 85% 85%;
     background-color:black;
 }
 
