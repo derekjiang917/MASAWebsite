@@ -76,13 +76,16 @@
     <!-- Header -->
    
     <div class="intro-header">
-        <div class="container">
+        <div class="container text-center">
 
             <div class="row">
                 <div class="col-lg-12">
                     <div class="intro-message">
-                        
+                    <h1>MASA</h1>
                     
+                    <div class="header-text btn">
+                    <h1><span id="head-title"></span></h1>
+                </div>
         
                     </div>
                 </div>
@@ -236,9 +239,34 @@
 
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
-
+     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script type="text/javascript" src="js/jquery.1.11.1.js"></script>
+    
+     <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script type="text/javascript" src="js/bootstrap.js"></script>
+    <script type="text/javascript" src="js/SmoothScroll.js"></script>
+    <script type="text/javascript" src="js/jasny-bootstrap.min.js"></script>
+    
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
+    
+    
+    <script src="js/typed.js"></script>
+    
+    <!-- Script for typing segment -->   
+    <script>
+      $(function(){
+          $("#head-title").typed({
+            strings: ["Allan is the best", " One Family One Heartbeat"],
+            typeSpeed: 100,
+            loop: true,
+            startDelay: 100
+          });
+      });
+    </script>
+    
+    
 
 </body>
 
