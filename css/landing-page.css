@@ -234,6 +234,9 @@ p.copyright {
     line-height: 25px;
 }
 
+.calendar {
+    padding-bottom: 20px;
+}
 
 .error{
     background: url(../img/bx-slider/sorrydog.jpg) no-repeat center center;
