@@ -214,14 +214,14 @@ p.copyright {
 
 .img-center { /**Staff page to center picture **/
 	margin: 0 auto;
-    height: 200px;
-    width: 200px;
+    height: 250px;
+    width: 250px;
 }
+
 
 .img-border{
     border-radius: 25px;
 }
-
 
 .btn-social {
     display: inline-block;
