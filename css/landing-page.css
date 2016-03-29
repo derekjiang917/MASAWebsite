@@ -23,6 +23,10 @@ h6 {
     font-weight: 700;
 }
 
+h1{
+    font-size: 64px;
+}
+
 h2{
     font-size: 40px;
 }
@@ -37,6 +41,10 @@ h2{
 
 .navbar-topleft{
     font-size: 30px;
+}
+
+.navbar-topleft:hover {
+    text-shadow: 1px 1px black;
 }
 
 .lead {
@@ -56,19 +64,28 @@ h2{
     position: relative;
     padding-top: 10%;
     padding-bottom: 10%;
-    font-size: 50px;
+    font-size: 64px;
     color:black;
 }
 
+#titletitle{
+    -webkit-animation-delay: 0.7s;
+}
 /**For the typewriter***/
+.header-text.btn > h1{
+    font-size: 64px;
+}
+
 .header-text.btn{
-	border: 1px solid black;
-	border-radius: 0;
-	padding: 10px 30px;
+	border: 3px solid white;
+	border-radius: 10px;
+	padding: 0px 30px;
 	height: 100px;
+    color: white;
+    text-shadow: 1px 1px black;
 }
 .header-text.btn:hover{
-	color: inherit;
+	color: white;
 }
 .header-text.btn:focus, 
 .header-text.btn:active:focus, 
@@ -84,9 +101,10 @@ h2{
 .intro-message > h1 {
     margin: 0;
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
-    font-size: 5em;
+    font-size: 300px;
+    color: white;
+    text-shadow: 2px 2px black;
 }
-
 
 .intro-divider {
     width: 400px;
@@ -143,6 +161,17 @@ h2{
 .section-heading {
     margin-bottom: 30px;
     font-size: 64px;
+}
+
+.section-heading-food > h1{
+    font-size: 64px;
+    margin-bottom: 0px;
+}
+
+.section-heading-food > h2{
+    font-size: 35px;
+    margin-top: 0;
+    margin-bottom: 30px;
 }
 
 .section-heading-spacer {
@@ -213,9 +242,21 @@ p.copyright {
 }
 
 .img-center { /**Staff page to center picture **/
+    -webkit-transition: all 300ms ease-out;
+    -moz-transition: all 300ms ease-out;    
+    -o-transition: all 300ms ease-out;
+    -ms-transition: all 300ms ease-out;
 	margin: 0 auto;
     height: 250px;
     width: 250px;
+}
+
+.img-center:hover { /** hover animation for staff picture**/
+    -webkit-transition: all 300ms ease-out;
+    -moz-transition: all 300ms ease-out;    
+    -o-transition: all 300ms ease-out;
+    -ms-transition: all 300ms ease-out;
+    box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 1.5);
 }
 
 
@@ -242,3 +283,81 @@ p.copyright {
     background: url(../img/bx-slider/sorrydog.jpg) no-repeat center center;
 }
 
+/** staff page css
+.box {
+  cursor: pointer;
+  height: 300px;
+  position: relative;
+  overflow: hidden;
+  width: 400px;
+}
+
+.box img {
+  position: absolute;
+  left: 0;
+  -webkit-transition: all 300ms ease-out;
+  -moz-transition: all 300ms ease-out;
+  -o-transition: all 300ms ease-out;
+  -ms-transition: all 300ms ease-out;
+  transition: all 300ms ease-out;
+}
+
+.box .overbox {
+  background-color: #304562;
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: #fff;
+  z-index: 100;
+  -webkit-transition: all 300ms ease-out;
+  -moz-transition: all 300ms ease-out;
+  -o-transition: all 300ms ease-out;
+  -ms-transition: all 300ms ease-out;
+  transition: all 300ms ease-out;
+  opacity: 0;
+  width: 360px;
+  height: 240px;
+  padding: 130px 20px;
+}
+
+.box:hover .overbox { opacity: 1; }
+
+.box .overtext {
+  -webkit-transition: all 300ms ease-out;
+  -moz-transition: all 300ms ease-out;
+  -o-transition: all 300ms ease-out;
+  -ms-transition: all 300ms ease-out;
+  transition: all 300ms ease-out;
+  transform: translateY(40px);
+  -webkit-transform: translateY(40px);
+}
+
+.box .title {
+  font-size: 2.5em;
+  text-transform: uppercase;
+  opacity: 0;
+  transition-delay: 0.1s;
+  transition-duration: 0.2s;
+}
+
+.box:hover .title,
+.box:focus .title {
+  opacity: 1;
+  transform: translateY(0px);
+  -webkit-transform: translateY(0px);
+}
+
+.box .tagline {
+  font-size: 0.8em;
+  opacity: 0;
+  transition-delay: 0.2s;
+  transition-duration: 0.2s;
+}
+
+.box:hover .tagline,
+.box:focus .tagline {
+  opacity: 1;
+  transform: translateX(0px);
+  -webkit-transform: translateX(0px);
+}
+**/
