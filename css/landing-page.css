@@ -71,16 +71,22 @@ h2{
 #titletitle{
     -webkit-animation-delay: 0.7s;
 }
+
+#head-title{
+    font-size: 1em;
+}
 /**For the typewriter***/
-.header-text.btn > h1{
-    font-size: 3em;
+.header-text > h1{
+    font-size: 2em;
+    margin-top: 5px;
+    margin-bottom: 12px;
 }
 
 .header-text.btn{
 	border: 3px solid white;
 	border-radius: 10px;
 	padding: 0px 30px;
-	height: 100px;
+	height: 3em;
     color: white;
     text-shadow: 1px 1px black;
 }
@@ -99,7 +105,7 @@ h2{
 }
 
 .intro-message > h1 {
-    margin: 0;
+    margin-top: 30px;
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
     font-size: 300px;
     color: white;
@@ -116,13 +122,43 @@ h2{
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
 }
 
+.video-container {
+	position:relative;
+	padding-bottom:56.25%;
+	padding-top:30px;
+	height:0;
+	overflow:hidden;
+}
+
+.video-container iframe, .video-container object, .video-container embed {
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+}
+
+.img-border{
+    width: 600px;
+    height: 300px;
+}
+
 @media(max-width:767px) {
+    .img-border{
+        width: 300px;
+        height: 150px;
+    }
+    
     .intro-message {
         padding-bottom: 15%;
     }
 
     .intro-message > h1 {
-        font-size: 3em;
+        font-size: 2em;
+    }
+    
+    #head-title{
+        font-size: 25px;
     }
 
     ul.intro-social-buttons > li {
