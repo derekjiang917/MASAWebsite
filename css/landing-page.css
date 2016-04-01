@@ -53,8 +53,8 @@ h2{
 }
 
 .intro-header {
-    padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
-    padding-bottom: 100px;
+    padding-top: 0px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-bottom: 0px;
     color: #f8f8f8;
     background: url(../img/heartbannerbg2.jpg) no-repeat center center;
     background-size: 100%;
@@ -64,7 +64,7 @@ h2{
     position: relative;
     padding-top: 10%;
     padding-bottom: 10%;
-    font-size: 64px;
+    font-size: 4em;
     color:black;
 }
 
@@ -73,7 +73,7 @@ h2{
 }
 /**For the typewriter***/
 .header-text.btn > h1{
-    font-size: 64px;
+    font-size: 3em;
 }
 
 .header-text.btn{
