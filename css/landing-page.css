@@ -148,6 +148,11 @@ h2{
     border-radius: 25px;
 }
 
+.modalpic {
+    width: 80%;
+    height: 80%;
+}
+
 .img-kf{
     width: 600px;
     height: 350px;
@@ -324,6 +329,7 @@ p.copyright {
 .error{
     background: url(../img/bx-slider/sorrydog.jpg) no-repeat center center;
 }
+
 
 /** staff page css
 .box {
