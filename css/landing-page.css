@@ -149,8 +149,8 @@ h2{
 }
 
 .modalpic {
-    width: 80%;
-    height: 80%;
+    width: 90%;
+    height: 90%;
 }
 
 .img-kf{
@@ -328,6 +328,15 @@ p.copyright {
 
 .error{
     background: url(../img/bx-slider/sorrydog.jpg) no-repeat center center;
+}
+
+.blockquote
+{
+  font-style: italic;
+  font-size: 16px;
+  border-left: 4px solid #CCC;
+  padding-left: 8px;
+  max-width: 200px;
 }
 
 
