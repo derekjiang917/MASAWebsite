@@ -349,10 +349,10 @@ p.copyright {
 .blockquote
 {
   font-style: italic;
-  font-size: 30px;
+  font-size: 18px;
   border-left: 4px solid #CCC;
   padding-left: 8px;
-  max-width: 200px;
+  max-width: 280px;
 }
 
 
