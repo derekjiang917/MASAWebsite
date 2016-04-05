@@ -32,6 +32,10 @@ h2{
     font-size: 40px;
 }
 
+span{
+    font-size: 30px;
+}
+
 li{
     font-size: 18px;
 }
@@ -54,7 +58,7 @@ li{
 }
 
 .lead {
-    font-size: 18px;
+    font-size: 22px;
     font-weight: 400;
 }
 
@@ -83,22 +87,18 @@ li{
 }
 /**For the typewriter***/
 .header-text > h1{
-    font-size: 2em;
+    font-size: 4em;
     margin-top: 5px;
     margin-bottom: 12px;
 }
 
 .header-text.btn{
-	border: 3px solid white;
-	border-radius: 10px;
-	padding: 0px 30px;
+	padding: 0;
 	height: 3em;
     color: white;
     text-shadow: 1px 1px black;
 }
-.header-text.btn:hover{
-	color: white;
-}
+
 .header-text.btn:focus, 
 .header-text.btn:active:focus, 
 .header-text.btn.active:focus, 
@@ -148,7 +148,7 @@ li{
 
 .img-border{
     width: 600px;
-    height: 300px;
+    height: 350px;
     border-radius: 25px;
 }
 
@@ -159,11 +159,21 @@ li{
 
 .img-kf{
     width: 600px;
-    height: 350px;
+    height: 430px;
     border-radius: 25px;
+}
+.img-link {
+    width: 100px;
+    height 100px;
+    border-radius: 20px;
 }
 
 @media(max-width:767px) {
+    
+    .img-kf{
+        width: 300px;
+        height: 200px;
+    }
     
     .modalpic{
         height: auto; 
@@ -178,7 +188,7 @@ li{
     
     .img-border{
         width: 300px;
-        height: 150px;
+        height: 200px;
     }
     
     .intro-message {
@@ -352,7 +362,7 @@ p.copyright {
   font-size: 18px;
   border-left: 4px solid #CCC;
   padding-left: 8px;
-  max-width: 280px;
+  max-width: 600px;
 }
 
 
