@@ -1,4 +1,4 @@
-MASA.UCSD.EDU source code for organizations informational website. 
+MASA.UCSD.EDU source code for organization's informational website. 
 
 Ones who started: Allan Wong, Kevin Jan, and Perry Liu.
 
