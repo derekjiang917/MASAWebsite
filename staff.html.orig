@@ -104,20 +104,23 @@
                     <small>President</small>
                 </h3>
                 <p>
-                <a href="https://www.facebook.com/imaninjaa" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
-                <a href="https://www.instagram.com/iamdirtychai" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-instagram"></i></a>
+                <a href="https://www.facebook.com/teukany" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+                <a href="https://www.instagram.com/teukany/" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-instagram"></i></a>
                 </p>
             </div>
 
             <div class="col-lg-4 col-sm-6 text-center animatedParent">
+<<<<<<< HEAD
+                <a data-target="#katherine" data-toggle="modal"><img class="img-circle img-responsive img-center animated rollIn delay-250" src="img/staff/coolbeans.jpg" alt=""></a>
+=======
                 <a data-target="#kathy" data-toggle="modal"><img class="img-circle img-responsive img-center animated rollIn delay-250" src="img/staff/coolbeans.jpg" alt=""></a>
-
+>>>>>>> staff_hotfixes
                 <h3>Katherine Le
                     <small>Vice President</small>
                 </h3>
                 <p>
-                <a href="https://www.facebook.com/katherine.le.3" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
-                <a href="https://www.instagram.com/kopyrighted/" target="_blank"  class="btn-social btn-outline"><i class="fa fa-fw fa-instagram"></i></a>
+                <a href="https://www.facebook.com/allan.wong.5" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+                <a href="https://www.instagram.com/allantakespictures/" target="_blank"  class="btn-social btn-outline"><i class="fa fa-fw fa-instagram"></i></a>
                 </p>
             </div>
 
@@ -128,8 +131,8 @@
                 </h3>
                 <p>
 
-                <a href="https://www.facebook.com/IfYouAreReadingThisYouHaveTooMuchTimeOnYourHands" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
-                <a href="https://www.instagram.com/rowrowftp/" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-instagram"></i></a>
+                <a href="https://www.facebook.com/elaine.tran.790" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+                <a href="https://www.instagram.com/elaaaine/" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-instagram"></i></a>
                 </p>
             </div>
 
@@ -140,8 +143,8 @@
                 </h3>
                 <p>
 
-                <a href="https://www.facebook.com/kc.johan" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
-                <a href="https://www.instagram.com/jkay8p/" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-instagram"></i></a>
+                <a href="https://www.facebook.com/kevin.jan.587" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+                <a href="https://www.instagram.com/kevinjann/" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-instagram"></i></a>
                 </p>
             </div>
 
@@ -152,8 +155,8 @@
                 </h3>
                 <p>
 
-                <a href="https://www.facebook.com/ashleywjy" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
-                <a href="https://www.instagram.com/ashley_wjy/" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-instagram"></i></a>
+                <a href="https://www.facebook.com/gemsjuan" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+                <a href="https://www.instagram.com/thatssojamesy/" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-instagram"></i></a>
                 </p>
             </div>
 
@@ -164,8 +167,8 @@
                 </h3>
                 <p>
 
-                <a href="https://www.facebook.com/calvin.nguyen.790" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
-                <a href="https://www.instagram.com/calvin_stagram/" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-instagram"></i></a>
+                <a href="#" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+                <a href="https://www.instagram.com/elainesunq/" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-instagram"></i></a>
                 </p>
             </div>
 
@@ -176,7 +179,8 @@
                 </h3>
                 <p>
 
-                <a href="https://www.facebook.com/vivian.mach.1" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+                <a href="https://www.facebook.com/stacey.lee.524" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+                <a href="https://www.instagram.com/simpleestacey/" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-instagram"></i></a>
                 </p>
             </div>
 
@@ -199,7 +203,7 @@
                 </h3>
                 <p>
 
-                <a href="https://www.facebook.com/thanh.tran.754" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+                <a href="https://www.facebook.com/ma.joey.9" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
                 </p>
             </div>
 
@@ -210,7 +214,8 @@
                 </h3>
                 <p>
 
-                <a href="https://www.facebook.com/selinajchang" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+                <a href="https://www.facebook.com/vivian.mach.1" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+                <a href="https://www.instagram.com/vivimacchiato/" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-instagram"></i></a>
                 </p>
             </div>
 
@@ -221,8 +226,8 @@
                 </h3>
                 <p>
 
-                <a href="https://www.facebook.com/wimr831" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
-                <a href="https://www.instagram.com/wimr831" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-instagram"></i></a>
+                <a href="https://www.facebook.com/carol.wu.52493" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+                <a href="https://www.instagram.com/carolkwu/" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-instagram"></i></a>
                 </p>
             </div>
 
@@ -233,8 +238,8 @@
                 </h3>
                 <p>
 
-                <a href="https://www.facebook.com/xmichelleyang" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
-                <a href="https://github.com/xmichelleyang" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-github"></i></a>
+                <a href="https://www.facebook.com/andrew.thai.568" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+                <a href="https://www.instagram.com/athaiiii1234/" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-instagram"></i></a>
                 </p>
             </div>
 
@@ -245,9 +250,8 @@
                 </h3>
                 <p>
 
-                <a href="https://www.facebook.com/winniechin107" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
-                <a href="https://www.instagram.com/w1nzer/" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-instagram"></i></a>
-                <a href="https://github.com/cychin" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-github"></i></a>
+                <a href="https://www.facebook.com/perry.liu.73" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+                <a href="https://www.instagram.com/perry.liu.73/" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-instagram"></i></a>
                 </p>
             </div>
 
@@ -258,7 +262,8 @@
                 </h3>
                 <p>
 
-                <a href="https://www.facebook.com/kevin.sun.1048554" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+                <a href="https://www.facebook.com/imaninjaa" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+                <a href="https://www.instagram.com/therealdirtychai/" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-instagram"></i></a>
                 </p>
             </div>
 
@@ -268,7 +273,9 @@
                     <small>Membership</small>
                 </h3>
                 <p>
-                <a href="https://www.facebook.com/lindywongplease" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+
+                <a href="https://www.facebook.com/viorenist" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+                <a href="https://www.instagram.com/lili.hime/" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-instagram"></i></a>
                 </p>
             </div>
 
@@ -278,8 +285,7 @@
                     <small>Public Relations</small>
                 </h3>
                 <p>
-                <a href="https://www.facebook.com/howdyjenny" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
-                <a href="https://www.instagram.com/howdyjennay/" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-instagram"></i></a>
+                <a href="https://www.facebook.com/randy.padua.7" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a
                 </p>
             </div>
 
@@ -290,7 +296,7 @@
                 </h3>
                 <p>
 
-                <a href="https://www.facebook.com/wendyhuang.cn" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+                <a href="https://www.facebook.com/Voice.of.Colours" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
                 </p>
             </div>
 
@@ -301,7 +307,8 @@
                 </h3>
                 <p>
 
-                <a href="https://www.facebook.com/abra.cadabra.ALEKAZAM" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+                <a href="https://www.facebook.com/thanh.tran.754" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+                <a href="https://www.instagram.com/cluelessaboutpho/" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-instagram"></i></a>
                 </p>
             </div>
 
@@ -312,8 +319,8 @@
                 </h3>
                 <p>
 
-                <a href="https://www.facebook.com/viorenist" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
-
+                <a href="https://www.facebook.com/Emily.E.Rader" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+                <a href="https://www.instagram.com/emanomaly/" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-instagram"></i></a>
                 </p>
             </div>
         </div>
@@ -355,8 +362,7 @@
             <div class="row">
                 <div class="col-lg-12">
 
-                    <p class="copyright text-muted small">Website developed by <a href ="http://allanthebenevolent.github.io/">Allan Wong</a>, <a href="http://kjan95129.github.io/">Kevin Jan</a> & <a href ="https://www.linkedin.com/in/perry-liu-496014b6">Perry Liu </a><br>
-                                                          Maintained by <a href ="https://github.com/xmichelleyang">Michelle Yang</a> and <a href="https://github.com/cychin">Winnie Chin</a> </p>
+                    <p class="copyright text-muted small">Website developed and maintained by <a href ="#">Michelle Yang</a> and <a href="#">Winnie Chin</a> </p>
                 </div>
             </div>
         </div>
@@ -390,9 +396,9 @@
 
                     <br>
 
-                        <p class = "blockquote">"<span>I</span>f we end a conversation where you're
-                                            a bit confused but happy we talked, I either did my job
-                                            correctly or you may be sleep deprived."</p>
+                        <p class = "blockquote">"<span>E</span>at, Love, Play games, repeat."</p>
+                        <p class = "blockquote">"<span>H</span>ave courage and be kind. "</p>
+                        <p class = "blockquote">"<span>L</span>ife is short, so eat all the good foods!"</p>
                 </div>
             </div>
           </div>
@@ -424,11 +430,16 @@
                         <li>Position: Vice President</li>
                         <li>Year: Junior </li>
                         <li>College: ERC</li>
-                        <li>Major: Pharmacological Chemistry</li>
+                        <li>Major: Pharmaceutical Chemistry</li>
 
                     <br>
 
-                        <p class = "blockquote">"<span>I</span> love dogs and raw fish. Let's get poké together ^__^"</p>
+                        <p class = "blockquote">"<span>O</span>ne smile can start a friendship.<br>
+                            <span>O</span>ne word can end a fight. <br>
+                        </p>
+
+                        <p class = "blockquote">"Let me be the <span>ONE</span>."
+                        </p>
 
                 </div>
             </div>
@@ -459,13 +470,13 @@
                 <div class = "pull-left">
                     <ul class = "list-unstyled profileList">
                         <li>Position: Admin</li>
-                        <li>Year: Super Senior</li>
+                        <li>Year: Junior</li>
                         <li>College: Sixth</li>
                         <li>Major: Mathematics - Probability & Statistics </li>
 
                     <br>
 
-                        <p class = "blockquote">"<span>M</span>ath is hard and I'm hungry and scared."</p>
+                        <p class = "blockquote">"<span>I</span>t's not a salad unless there's meat in it. Without meat, that's just leaves."</p>
                 </div>
             </div>
           </div>
@@ -497,14 +508,19 @@
                         <li>Position: Alumni Chair</li>
                         <li>Year: Senior</li>
                         <li>College: Thurgood Marshall</li>
-                        <li>Major: SOCI - Emphasis in Culture <br>and Communications</li>
+                        <li>Major: CSOCI - Emphasis in Culture <br>and Communications</li>
                         <li>Minors: Vis Arts (ICAM)</li>
 
                     <br>
 
-                        <p class = "blockquote">"<span>I</span> enjoy meeting new and old people and I like
-                                            dark, intriguing, and weird things."</p>
-
+                        <p class = "blockquote">"<span>W</span>hat looks like genius is actually
+                                            the result of brute force."</p>
+                        <p class = "blockquote">"<span>I</span>f you repeated today every day
+                                            for the next year, realistically,
+                                            where would you end up?"</p>
+                        <p class = "blockquote">"<span>Y</span>ou pile up enough tomorrows,
+                                            and you’ll find you’ve collected
+                                            a lot of empty yesterdays."</p>
                 </div>
             </div>
           </div>
@@ -541,7 +557,7 @@
 
                     <br>
 
-                        <p class = "blockquote">"<span>I</span> love fashion, food, and dance ;)"</p>
+                        <p class = "blockquote">"<span>W</span>orking out is the key to success. #blessup"</p>
                 </div>
             </div>
           </div>
@@ -579,7 +595,7 @@
 
                     <br>
 
-                        <p class = "blockquote">"<span>I</span>ntroverted, baby-faced derp who likes to dance and eat sushi."</p>
+                        <p class = "blockquote">"<span>I</span>'m single and ready to mingle."</p>
                 </div>
             </div>
           </div>
@@ -615,8 +631,8 @@
 
                     <br>
 
-                        <p class = "blockquote">"<span>I</span> love spending quality time with family,
-                                            and finding new interests and hobbies with friends :)"</p>
+                        <p class = "blockquote">"<span>I</span>t's so good I wanna cry."</p>
+                        <p class = "blockquote"> "<span>I</span>s that even safe?"</p>
                 </div>
             </div>
           </div>
@@ -651,7 +667,7 @@
 
                     <br>
 
-                        <p class = "blockquote">"<span>I</span> prefer detective and horror shows on Netflix."</p>
+                        <p class = "blockquote">"<span>G</span>ive 100% to everything you do."</p>
                 </div>
             </div>
           </div>
@@ -686,8 +702,8 @@
 
 
                     <br>
-                    <p class = "blockquote">"<span>F</span>avorite movie is Good Will Hunting. I like telling
-                                        bad puns, playing tennis, and going to the beach."</p>
+
+                    <p class = "blockquote" style ="font-size:50px;">"BOBA."</p>
                 </div>
             </div>
           </div>
@@ -703,7 +719,7 @@
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        <h3 class="modal-title text-center" id="myModalLabel">Selina Chang <br> Historian</h3>
+        <h3 class="modal-title text-center" id="myModalLabel">Selina Chang <br> Historian00</h3>
       </div>
         <div class="modal-body">
           <div class = "container-fluid">
@@ -723,7 +739,7 @@
 
                     <br>
 
-                        <p class = "blockquote">"<span>B</span>oba is life"</p>
+                        <p class = "blockquote">"<span>I</span> KNOOWWWWWWW"</p>
                 </div>
             </div>
           </div>
@@ -757,9 +773,7 @@
                         <li>Minor: Dance </li>
                     <br>
 
-                        <p class = "blockquote">"<span>I</span> like dancing, drawing, taking pictures,
-                                            listening to music, and looking for shells at the beach!
-                                            And I dislike grammar and spelling words..."</p>
+                        <p class = "blockquote">"<span>I</span> don't kill my friends."</p>
                 </div>
             </div>
           </div>
@@ -794,7 +808,9 @@
 
                     <br>
 
-                        <p class = "blockquote">"<span>C</span>urious, overly-analytical, and always up for an adventure."</p>
+                        <p class = "blockquote">"<span>D</span>on't wait for the perfect moment, take the moment and make it perfect."</p>
+                        <p class = "blockquote">"<span>Y</span>ou miss 100% of the shots you take."</p>
+                        <p class = "blockquote">"<span>T</span>he past is behind, learn from it, the future is ahead, prepare for it, the present is here, live it."</p>
                 </div>
             </div>
           </div>
@@ -829,7 +845,8 @@
 
                     <br>
 
-                        <p class = "blockquote">"<span>S</span>omehow college made me nocturnal."</p>
+                        <p class = "blockquote">"<span>S</span>ometimes life is like this dark tunnel, you can’t always see the light at the end of the tunnel, but if you just keep moving, you will come to a better place."</p>
+                        <p class = "blockquote">"<span>T</span>he brick walls are there for a reason. The brick walls are not there to keep us out. The brick walls are there to give us a chance to show how badly we want something. Because the brick walls are there to stop the people who don’t want it badly enough."</p>
                 </div>
             </div>
           </div>
@@ -859,12 +876,14 @@
                         <li>Position: Membership</li>
                         <li>Year: Senior </li>
                         <li>College: Sixth </li>
-                        <li>Major: Biology - Bioinformatics </li>
+                        <li>Biology - Bioinformatics </li>
                         <li>Minor: Psychology  </li>
 
                     <br>
 
-                        <p class = "blockquote">"<span>I</span> like to move it move it."</p>
+                        <p class = "blockquote">"<span>N</span>ever stop dancing."</p>
+                        <p class = "blockquote">"<span>P</span>ut an egg on it."</p>
+                        <p class = "blockquote">"<span>S</span>alt makes food taste more like itself."</p>
                 </div>
             </div>
           </div>
@@ -898,9 +917,7 @@
 
                     <br>
 
-                        <p class = "blockquote">"<span>I</span>'m from Los Angeles, and I love to eat. I like to listen to Kpop,
-                                            read manga, and watch shows on Netflix! My favorite color is green and my favorite
-                                            fruits are durian, watermelon, and mango. I also love to sleep."</p>
+                        <p class = "blockquote">"<span>I</span>t's Gucci"</p>
                 </div>
             </div>
           </div>
@@ -916,7 +933,7 @@
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        <h3 class="modal-title text-center" id="myModalLabel">Jenny Nguyen<br> Public Relations</h3>
+        <h3 class="modal-title text-center" id="myModalLabel">Jenny Nguyen<br> Public Reputations</h3>
       </div>
      <div class="modal-body">
           <div class = "container-fluid">
@@ -927,7 +944,7 @@
                 <br>
                 <div class = "pull-left">
                     <ul class = "list-unstyled profileList">
-                        <li>Position: Public Relations </li>
+                        <li>Position: Public Reputations </li>
                         <li>Year: Sophomore </li>
                         <li>College: Thurgood Marhsall </li>
                         <li>Major: Chemical Engineering </li>
@@ -935,7 +952,9 @@
 
                     <br>
 
-                        <p class = "blockquote">"<span>I</span> may be a small girl, but I have big ambitions and a big heart."</p>
+                        <p class = "blockquote">"<span>D</span>ance with your face!"</p>
+                        <p class = "blockquote">"<span>I</span> can't think of a quote"</p>
+                        <p class = "blockquote">"<span>W</span>ho wants to hear a joke?"</p>
                 </div>
             </div>
           </div>
@@ -951,7 +970,7 @@
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        <h3 class="modal-title text-center" id="myModalLabel">Wendy Huang <br> Public Relations</h3>
+        <h3 class="modal-title text-center" id="myModalLabel">Wendy Huang <br> Public Reputations</h3>
       </div>
        <div class="modal-body">
           <div class = "container-fluid">
@@ -962,14 +981,14 @@
                 <br>
                 <div class = "pull-left">
                     <ul class = "list-unstyled profileList">
-                        <li>Position: Public Relations </li>
+                        <li>Position: Public Reputations </li>
                         <li>Year: Junior </li>
                         <li>College: ERC</li>
-                        <li>Major: International Business</li>
+                        <li>Major: International Studies - International Business</li>
 
                     <br>
 
-                        <p class = "blockquote">"<span>P</span>erseverence powered by all the joys in life—art, food, video games, and love."</p>
+                        <p class = "blockquote">"<span>D</span>ope"</p>
                 </div>
             </div>
           </div>
@@ -1003,9 +1022,7 @@
 
                     <br>
 
-                        <p class = "blockquote">"<span>H</span>i, I'm Alex, and I'm a silly, sarcastic,
-                                            and easygoing person that loves to create things. I'm excited
-                                            to see y'all this year!"</p>
+                        <p class = "blockquote">"<span>T</span>he fat life is fun"</p>
                 </div>
             </div>
           </div>
@@ -1040,7 +1057,7 @@
 
                     <br>
 
-                        <p class = "blockquote">"<span>T</span>rying to make the world a lil better one smile at a time"</p>
+                        <p class = "blockquote">"<span>N</span>o, I'm not part Asian. Yes, I'm in the right org."</p>
                 </div>
             </div>
           </div>

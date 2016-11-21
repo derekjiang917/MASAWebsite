@@ -44,7 +44,7 @@ li{
 }
 
 .topnav {
-    font-size: 14px; 
+    font-size: 14px;
 }
 
 .navbar-font{
@@ -54,7 +54,7 @@ li{
 
 .navbar-topleft{
     font-size: 30px;
-    font-family: "Averia Sans Libre";
+    font-family: "Averia Sans Libre"; /** TODO: This is where you can change the LOGO font! **/
 }
 
 .navbar-topleft:hover {
@@ -70,7 +70,7 @@ li{
     padding-top: 0px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
     padding-bottom: 0px;
     color: #f8f8f8;
-    background: url(../img/heartbannerbg2.jpg) no-repeat center center;
+    background: url(../img/group.jpg) no-repeat center center;
     background-size: 100%;
 }
 
@@ -104,11 +104,11 @@ li{
     color: white;
 }
 
-.header-text.btn:focus, 
-.header-text.btn:active:focus, 
-.header-text.btn.active:focus, 
-.header-text.btn.focus, 
-.header-text.btn:active.focus, 
+.header-text.btn:focus,
+.header-text.btn:active:focus,
+.header-text.btn.active:focus,
+.header-text.btn.focus,
+.header-text.btn:active.focus,
 .header-text.btn.active.focus {
 	outline: thin dotted transparent;
 	outline: none;
@@ -172,28 +172,28 @@ li{
 }
 
 @media(max-width:767px) {
-    
+
     .img-kf{
         width: 300px;
         height: 200px;
     }
-    
+
     .modalpic{
-        height: auto; 
-        width: auto; 
-        max-width: 300px; 
+        height: auto;
+        width: auto;
+        max-width: 300px;
         max-height: 300px;
     }
-    
+
     li{
         font-size: 20px;
     }
-    
+
     .img-border{
         width: 300px;
         height: 200px;
     }
-    
+
     .intro-message {
         padding-bottom: 15%;
     }
@@ -201,7 +201,7 @@ li{
     .intro-message > h1 {
         font-size: 1.5em;
     }
-    
+
     #head-title{
         font-size: 25px;
     }
@@ -324,7 +324,7 @@ p.copyright {
 
 .img-center { /**Staff page to center picture **/
     -webkit-transition: all 300ms ease-out;
-    -moz-transition: all 300ms ease-out;    
+    -moz-transition: all 300ms ease-out;
     -o-transition: all 300ms ease-out;
     -ms-transition: all 300ms ease-out;
 	margin: 0 auto;
@@ -334,7 +334,7 @@ p.copyright {
 
 .img-center:hover { /** hover animation for staff picture**/
     -webkit-transition: all 300ms ease-out;
-    -moz-transition: all 300ms ease-out;    
+    -moz-transition: all 300ms ease-out;
     -o-transition: all 300ms ease-out;
     -ms-transition: all 300ms ease-out;
     box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 1.5);
