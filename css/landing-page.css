@@ -10,6 +10,13 @@
 @import url(https://fonts.googleapis.com/css?family=Quicksand:400,300);
 @import url(https://fonts.googleapis.com/css?family=Poiret+One);
 
+/* Michelle's favorite font */
+@font-face {
+  font-family: "LeagueSpartan-Bold";
+  src: url("fonts/LeagueSpartan-Bold.otf") format("opentype");
+}
+
+
 body,
 html {
     width: 100%;
@@ -54,7 +61,7 @@ li{
 
 .navbar-topleft{
     font-size: 30px;
-    font-family: "Averia Sans Libre"; /** TODO: This is where you can change the LOGO font! **/
+    font-family: "LeagueSpartan-Bold", sans-serif; /** TODO: This is where you can change the LOGO font! **/
 }
 
 .navbar-topleft:hover {
@@ -83,6 +90,7 @@ li{
 }
 
 #titletitle{
+    font-family: "LeagueSpartan-Bold";
     -webkit-animation-delay: 0s;
 }
 
