@@ -10,10 +10,12 @@
 @import url(https://fonts.googleapis.com/css?family=Quicksand:400,300);
 @import url(https://fonts.googleapis.com/css?family=Poiret+One);
 
-/* Michelle's favorite font */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Raleway:900');
+
+/* Michelle's attempt to use League Spartan */
 @font-face {
   font-family: "LeagueSpartan-Bold";
-  src: url("fonts/LeagueSpartan-Bold.otf") format("opentype");
+  src: url(../fonts/LeagueSpartan-Bold.otf) format("opentype");
 }
 
 
@@ -60,8 +62,9 @@ li{
 }
 
 .navbar-topleft{
-    font-size: 30px;
-    font-family: "LeagueSpartan-Bold", sans-serif; /** TODO: This is where you can change the LOGO font! **/
+    padding-top: 18px;
+    font-size: 25px;
+    font-family: "LeagueSpartan-Bold", sans-serif;
 }
 
 .navbar-topleft:hover {
@@ -90,7 +93,9 @@ li{
 }
 
 #titletitle{
-    font-family: "LeagueSpartan-Bold";
+
+font-family: 'Raleway', sans-serif;
+    /*font-family: "LeagueSpartan-Bold"; */
     -webkit-animation-delay: 0s;
 }
 
