@@ -52,6 +52,16 @@ li{
     font-size: 18px;
 }
 
+table{
+  margin-left: auto;
+    margin-right: auto;
+}
+td{
+  text-align: center;
+  padding: 25px;
+
+}
+
 .topnav {
     font-size: 14px;
 }
