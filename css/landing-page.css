@@ -74,6 +74,10 @@ td{
   padding-right: 20px;
 }
 
+a {
+    color: #e73a3c;
+}
+
 .topnav {
     font-size: 14px;
 
@@ -313,8 +317,8 @@ td{
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-    background: url(../img/lowerbanner.jpg) no-repeat center center;
     background-size: cover;
+    background-color: #2d2d2d;
 
 }
 
@@ -333,6 +337,8 @@ td{
     float: right;
     margin-top: 0;
 }
+
+/** Highlight
 /*** Works on common browsers ***/
 ::selection {
     background-color: #352e7e;
