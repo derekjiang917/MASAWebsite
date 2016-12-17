@@ -76,17 +76,20 @@ td{
 
 .topnav {
     font-size: 14px;
+
 }
 
 .navbar-font{
     font-family: "Muli", sans-serif;
     font-weight: 300;
+
 }
 
 .navbar-topleft{
     padding-top: 18px;
     font-size: 25px;
     font-family: "LeagueSpartan-Bold", sans-serif;
+
 }
 
 .navbar-topleft:hover {
@@ -330,6 +333,34 @@ td{
     float: right;
     margin-top: 0;
 }
+/*** Works on common browsers ***/
+::selection {
+    background-color: #352e7e;
+    color: #fff;
+}
+
+/*** Mozilla based browsers ***/
+::-moz-selection {
+    background-color: #e73a3c;
+    color: #fff;
+}
+
+/***For Other Browsers ***/
+::-o-selection {
+    background-color: #e73a3c;
+    color: #fff;
+}
+
+::-ms-selection {
+    background-color: #e73a3c;
+    color: #fff;
+}
+
+/*** For Webkit ***/
+::-webkit-selection {
+    background-color: #e73a3c;
+    color: #fff;
+}
 
 @media(max-width:1199px) {
     ul.banner-social-buttons {
@@ -499,3 +530,8 @@ p.copyright {
   -webkit-transform: translateX(0px);
 }
 **/
+
+/** Colors:
+    Red: #e73a3c
+    Black: #2d2d2d
+ **/
