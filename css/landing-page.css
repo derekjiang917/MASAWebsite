@@ -99,10 +99,6 @@ a:hover{
 
 }
 
-.navbar-topleft:hover {
-    text-shadow: 1px 1px black;
-}
-
 .lead {
     font-size: 22px;
     font-weight: 400;
