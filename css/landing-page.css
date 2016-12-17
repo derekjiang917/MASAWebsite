@@ -77,6 +77,9 @@ td{
 a {
     color: #e73a3c;
 }
+a:hover{
+  color: #e73a3c;
+}
 
 .topnav {
     font-size: 14px;
