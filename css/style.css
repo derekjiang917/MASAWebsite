@@ -12,7 +12,11 @@
 
 @import url(http://fonts.googleapis.com/css?family=Aldrich);
 
-
+/* Michelle's attempt to use League Spartan */
+@font-face {
+  font-family: "LeagueSpartan-Bold";
+  src: url(../fonts/LeagueSpartan-Bold.otf) format("opentype");
+}
 
 /* Global styles
 ================================================== */
@@ -37,16 +41,17 @@ body{
 a:link,
 a:visited{
     text-decoration: none;
+    color: #e73a3c;
 }
 
 
 a:hover{
 	text-decoration: none;
-	color: #D95632;
+	color: #e73a3c;
 	cursor: pointer;
 }
 a:visited{
-	color:  #009bdf;
+	color:  #e73a3c;
 }
 
 section{
@@ -106,7 +111,7 @@ body, p{
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: 'Aldrich', sans-serif;
+  font-family: "LeagueSpartan-Bold", "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 h1{
