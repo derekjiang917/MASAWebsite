@@ -304,7 +304,7 @@ a:hover{
 
 .content-section-a {
     padding: 50px 0;
-    margin-top: 40px;
+    margin-top: 0px;
     background-color: #2d2d2d;
     color:white;
 }
@@ -473,7 +473,6 @@ p.copyright {
 
 .blockquote
 {
-  font-style: italic;
   font-size: 18px;
   border-left: 4px solid #CCC;
   padding-left: 8px;
