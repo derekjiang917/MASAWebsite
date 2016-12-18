@@ -132,7 +132,7 @@ a:hover{
     color:black;
 }
 
-#topleftlogo{
+#topleftlogo {
   color: #e73a3c!important;
 }
 #titletitle{
@@ -297,11 +297,14 @@ a:hover{
 
 .content-section-a {
     padding: 50px 0;
-    background-color: #F4F4F4;
+    margin-top: 40px;
+    background-color: #2d2d2d;
+    color:white;
 }
 
 .content-section-b {
     padding: 50px 0;
+    padding-bottom: 55px;
     border-top: 1px solid #e7e7e7;
     border-bottom: 1px solid #e7e7e7;
 }
