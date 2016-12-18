@@ -18,6 +18,10 @@
   src: url(../fonts/LeagueSpartan-Bold.otf) format("opentype");
 }
 
+@font-face {
+  font-family: "Flaticon";
+  src: url(../fonts/Flaticon.woff);
+}
 
 body,
 html {
@@ -84,10 +88,14 @@ td{
 a {
     color: #e73a3c;
 }
-a:hover{
+a:hover {
   color: #e73a3c;
 }
 
+i {
+  font-family: "Flaticon", sans-serif;
+  color: #e73a3c;
+}
 .topnav {
     font-size: 14px;
 
